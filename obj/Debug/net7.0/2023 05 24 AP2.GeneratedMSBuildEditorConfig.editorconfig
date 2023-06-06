@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = API
+build_property.ProjectDir = c:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 05 31 Aula 16\
